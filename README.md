@@ -1,6 +1,6 @@
 # WebView
 WebView
-
-![Alt text](Home.png?raw=true "Optional Title")
-
-![Alt text](Pedia.png?raw=true "Optional Title")
+1
+![Alt text](Home.PNG?raw=true "Optional Title")
+2
+![Alt text](Pedia.PNG?raw=true "Optional Title")
